@@ -1,0 +1,42 @@
+/* Estilos generales */
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000; /* Fondo negro para todo el cuerpo */
+  color: #fff; /* Texto blanco para todo el cuerpo */
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Encabezado */
+header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.logo img {
+  width: 150px;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 24px;
+}
+
+/* Destacados */
+.destacados {
+  margin: 20px auto;
+  max-width: 800px;
+  background-color: #222; /* Fondo oscuro para la sección destacados */
+  padding: 20px; /* Espaciado interno */
+  border-radius: 10px; /* Añade el valor del radio del borde (puedes ajustar el valor según tus necesidades) */
+}
+
